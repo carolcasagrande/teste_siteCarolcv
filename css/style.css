@@ -1,0 +1,24 @@
+.navbar{
+    background-color: rgb(199, 197, 197);
+
+}
+.quemsomos{
+    background-color: rgb(243, 171, 171);
+}
+
+.margin{
+    padding: 5px 0;
+}
+
+.margin-img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body{
+    font-family:'Comic Sans MS';
+}
+
+h2{
+    text-justify: auto;
+}
